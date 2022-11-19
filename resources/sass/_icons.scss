@@ -1,0 +1,16 @@
+/*!rtl:begin:options:
+{
+  "autoRename": true,
+  "stringMap":[
+      {
+      "name"    : "prev-next-left-right",
+      "search"  : ["prev", "next", "left", "right"],
+      "replace" : ["next", "prev", "right", "left"]
+      }
+  ]
+}
+*/
+
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+@import "~icomoon/style.css";
+/*!rtl:end:options*/
